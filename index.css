@@ -1,0 +1,39 @@
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.boy__friend,
+.girl__friend {
+  font-size: 2.5rem;
+}
+.boy__friend {
+  color: #57a49e;
+}
+.girl__friend {
+  color: slateblue;
+}
+.boy__friend:hover {
+  text-decoration: none;
+}
+i {
+  color: red;
+  font-size: 1.5rem;
+}
+.girl__friend:hover {
+  text-decoration: none;
+}
+.button__show {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.button__show a{
+    font-size: 1.5rem;
+    color: white;
+    border: none;
+    background-color: seagreen;
+    border-radius: 14px;
+    padding: 8px 14px;
+}
+.carousel-caption h5{
+    
+}
